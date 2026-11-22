@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-11-21T15:52:56.334Z",
+  "timestamp": "2026-11-22T15:51:42.431Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -964,6 +964,13 @@
       "decimals": 9,
       "name": "Token 3UB7",
       "symbol": "3UB7i"
+    },
+    {
+      "address": "3UmBMV7mPRF5fuVG2kmtKuL6CTU1iYcCvuDYzJYD4TWd",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token 3UmB",
+      "symbol": "3UmBM"
     },
     {
       "address": "3usXy7oTNAVcE49ckprNWJQDYrKM4m2KzCKGT7eP9A2X",
@@ -8925,6 +8932,13 @@
       "decimals": 6,
       "name": "Token FUXD",
       "symbol": "FUXDq"
+    },
+    {
+      "address": "FvdVWdGiEbgcmrMhFwEEFUpuCJnRVK3pLjynJugJkAhE",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token FvdV",
+      "symbol": "FvdVW"
     },
     {
       "address": "FVgdGAX19U6n7KQ5u8xsNnkh2JZrQMjDEnuzYRuByWAL",
