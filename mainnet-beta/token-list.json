@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-11-24T19:17:20.167Z",
+  "timestamp": "2026-11-25T18:21:54.485Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -11153,6 +11153,13 @@
       "decimals": 0,
       "name": "Token Msyo",
       "symbol": "Msyod"
+    },
+    {
+      "address": "n6n1FXc2gDkAhBBqMsLHzYEJ7qrcG192zYo1i6Wkr2S",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token n6n1",
+      "symbol": "n6n1F"
     },
     {
       "address": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
